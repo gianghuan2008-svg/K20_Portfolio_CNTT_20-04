@@ -1,38 +1,38 @@
 
 # AI LOG - NHẬT KÝ SỬ DỤNG AI
 
-## 1. Thông tin
-- Họ tên: [Tên của bạn]
-- Công cụ AI: ChatGPT
-- Ngày sử dụng: 30/10/2026
-- Chủ đề: Thiết kế website HTML/CSS
+# 20_portfolio_20-04
 
-## 2. Nội dung trao đổi
+## 1. Vấn đề gặp phải
 
-### Lần 1
-**Prompt:** 
-Hãy hướng dẫn tôi tạo bố cục website bằng HTML5.
+Hình ảnh không hiển thị khi mở website Portfolio.
 
-**AI hỗ trợ:**
-Giải thích cách sử dụng header, nav, main, section và footer.
+## 2. Nhận định trước khi hỏi AI
 
-**Kết quả áp dụng:**
-Sử dụng các thẻ HTML ngữ nghĩa để xây dựng bố cục website.
+Có thể đường dẫn đến hình ảnh chưa chính xác hoặc tên tệp hình ảnh bị sai.
 
-### Lần 2
-**Prompt:**
-Hướng dẫn tôi thiết kế giao diện responsive bằng CSS.
+## 3. Công cụ sử dụng
 
-**AI hỗ trợ:**
-Hướng dẫn sử dụng Flexbox, Grid và Media Query.
+ChatGPT.
 
-**Kết quả áp dụng:**
-Điều chỉnh giao diện phù hợp với máy tính và điện thoại.
+## 4. Câu hỏi đặt ra
 
-## 3. Đánh giá
-- AI giúp tiết kiệm thời gian tìm hiểu code.
-- Tôi đã kiểm tra và chỉnh sửa lại code.
-- Một số nội dung được điều chỉnh để phù hợp yêu cầu bài tập.
+Tại sao hình ảnh không hiển thị trên website HTML và cách khắc phục như thế nào?
+
+## 5. Gợi ý của AI
+
+- Kiểm tra thuộc tính `src` trong thẻ `<img>`.
+- Kiểm tra tên tệp và đuôi ảnh (.jpg, .png, .jpeg).
+- Kiểm tra vị trí thư mục chứa hình ảnh.
+- Đảm bảo đường dẫn tương đối chính xác.
+
+## 6. Quyết định
+
+Tự kiểm tra lại tên ảnh, thư mục lưu trữ và sửa đường dẫn `src` cho đúng với vị trí thực tế của hình ảnh.
+
+## 7. Kết quả kiểm chứng
+
+Sau khi sửa đường dẫn hình ảnh, mở lại website để kiểm tra. Hình ảnh hiển thị đúng vị trí và không còn lỗi đường dẫn. (Cần tự xác nhận kết quả thực tế trước khi nộp.)ù hợp yêu cầu bài tập.
 
 ## 4. Kết luận
 AI là công cụ hỗ trợ học tập. Tôi chủ động kiểm tra,
